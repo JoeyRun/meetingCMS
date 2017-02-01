@@ -1,0 +1,5 @@
+/* CSS Document */
+*{margin:0; padding:0; font-size:12px;}
+body{text-align:center;}
+.btn1{ background:url(../images/deleteinfo.ico);}
+.btn2{ border:none; width:48px; height:20px; background:url(../images/delete_15.jpg);}

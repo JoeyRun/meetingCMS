@@ -1,0 +1,5 @@
+/* CSS Document */
+*{ font-size:12px; margin:0; padding:0; line-height:20px;}
+body{text-align:center; background:#FFFFCC;}
+.btn1{border:none; width:48px; height:20px; background:url(../images/append_15.jpg);}
+.add_dpt{ margin:20px auto 5px auto}
